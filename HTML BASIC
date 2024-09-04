@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <DIV CLASS="CONTAINER">
+        <H1>HEADING TAGS:
+            HEADING 1
+        </H1>
+        <H2>HEADING 2</H2>
+        <H3> HEADINF 3</H3>
+        <H4>HEADING 4</H4>
+        <H5>HEADING 5</H5>
+        <H6> HEADING 6</H6>
+        <P> THIS IS PARAGRAP</P>
+        <a href="https://codegnan.com/">codegnan</a>
+        <img src="/practice/codegnan logo.jpeg"
+        alt="codegnan logo"/>
+        <button>click me</button>
+        <hr/>
+        <div>
+            division: div is a block level element ,new line and 100% width 
+        </div>
+        <br>
+        <spam>
+            span: span is inline element and content background ground space 
+        </spam>
+        <br><br>
+        <header>
+            header is a semantic element
+        </header>
+        <section> section is abody semantic element</section>
+        <footer>footer semantic element</footer>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, quia. Maxime magnam unde neque reiciendis
+             praesentium possimus quae, repellat cupiditate sint delectus et nobis corrupti ad obcaecati molestiae quis quidem.</p>
+
+    </DIV>
+</body>
+</html>
