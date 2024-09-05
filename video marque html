@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>video & marque file</title>
+</head>
+<body>
+    <div>
+        <h1>marquee element creation</h1>
+        <h1>
+            <marquee direction="right" style="color:blue">
+            </h1>
+            hello developer
+        </marquee>
+        <hr/>
+        <div>
+            <iframe width="200" height="100" src="https://www.youtube.com/embed/-vR-AMvcEAc" title="Codegnan review | Data science course in Hyderabad| Java full course in Madhapur |Choose Your Career" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+        <div> <iframe width="200" height="100" src="https://www.youtube.com/embed/MmCnuKO-NMg" title="Codegnan: Job Opportunity and Software Course | IT Software Jobs for Degree Students | Mr Nag" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+        <hr>
+        <video width="200" height="100" controls>
+
+            <source src="./suresh.mp4" type="video/mp4"/>
+        </video>
+        <hr>
+    
+        
+    </div>
+    
+</body>
+</html>
