@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>resume</title>
+    <h1>Name :BATHULA SHEKAR</h1>
+    <h4>Email id:bathula242@gmail.com</h4>
+    <h4>mobile No:6302109154</h4>
+    <h4>linked In Id :https://www.linkedin.com/in/shekar-bathula</h4>
+    <h4> H.NO:2-24,VILL:PEDDAKALWALA,MDL:DIST:PEDDAPALLI.
+    </h4>
+</head>
+<body>
+    <section>
+        <h2>Career objective :</h2>
+        <p>
+            To pursue a highly rewarding career, seeking for a job in challenging and healthy work
+            environment where I can utilize my skills and knowledge efficiently for organizational growth. 
+        </p>
+    </section>
+    <section>
+      <div>
+        <ul>
+        <h3>Technical Skills</h3>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Python</li>
+            <li>Bsics In C language</li>
+            <li>MYSQL</li>
+        </ul>
+      </div>  
+    </section>
+    <section>
+<div>
+    <ul>
+    <h3>Personal Skills</h3>
+    <li>Positive attitude and visionary.</li>
+    <li>Hardworking and dedication towards work.
+    </li>
+    <li>self-motivated.</li>
+    <li>Quick self-learning.</li>
+</ul>
+</div>
+    </section>
+    <section>
+        <div>
+            <ul>
+                <h3>Qualification</h3>
+                <table border="1px">
+                    <tr>
+                        <th>LEVEL OF EDUCATION</th>
+                        <th>INSTITUTION</th>
+                        <th>BOARD OF UNIVERSI TY </th>
+                        <th>DURATION</th>
+                        <th>AGGREGATE (IN %)</th>
+                    </tr>
+                    <tr>
+                        <td> B_TECH 
+                            (ECE Stream)
+                            </td>
+                        <td>SREE CHAITANYA INSTITUTE OF ENGINEERING & TECHNOLOGY (KARIMNAGAR) </td>
+                        <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JNTUH</td>
+                        <td>&nbsp;&nbsp;2020-2024</td>
+                        <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;63.40%</td>
+                    </tr>
+                     <tr>
+                        <td>INTERMEDIATE (MPC Stream)</td>
+                        <td>TRINITY JUNIOR COLLEGE(KARIMNAGAR)</td>
+                        <td>BOARD OF
+                            INTERMEDIATE, 
+                            TS</td>
+                        <td>&nbsp;&nbsp;2018-2020</td>
+                        <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;80.8%</td>
+                        </tr>
+                        <tr>
+                            <td>S.S.C</td>
+                            <td>TRINITY MODEL SECOUNDARY SCHOOL</td>
+                            <td>BOARD OF
+                        SECONDARY 
+                        EDUCATION,
+                        TS</td>
+                <td>&nbsp;&nbsp;2017-2018</td>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;93%</td>
+            </tr>
+                </table>
+            </ul>
+        </div>
+    </section>
+<section>
+    <div>
+        <ul>
+        <h3>Projects</h3>
+
+        <li>Title-1: IOT HOME AUTOMATION USING ARDUINO</li>
+                <li>Title - 2: IOT BASED INTRUDER DETECTION WARNING AND ALERTING SYSTEM</li>
+                </ul>
+    </div>
+</section>
+   <section>
+        <div>
+            <ul>
+            <h3>Personal Details</h3>
+            <li>NAME : B.SHEKAR
+            </li>
+            <li>DATE OF BRITH : 10-11-2001
+            </li>
+            <li>NATIONALITY : INDIAN</li>
+            <li>GENDER : MALE</li>
+            <li>FATHERS NAME : B.KOMURAIAH</li>
+            <li>MOTHERS NAME : B.SWARUPA</li>
+            <li>LANGUAGES KNOWN : ENGLISH, TELUGU,HINDHI</li>
+        </ul>
+        </div>
+    </section>
+    <section>
+        <div>
+            <ul>
+                <h3>HOBBIES</h3> 
+        
+        <li>Playing Games.
+        </li>
+        <li>Watching movies</li>
+    </ul>
+</div>
+    </section>
+    <section>
+        <div>
+            <ul>
+                <h3>DECLARATION</h3>
+                <li>I hereby declare that the above information is true to the best of my knowledge and belief.
+                </li>
+                <br/>
+                PLACE: HYDERABAD &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BATHULA SHEKAR
+                
+                </ul>
+                        </div>
+                    </section>
+                </body>
+                </html>
